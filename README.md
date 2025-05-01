@@ -43,7 +43,7 @@ The goal was to use Python to query a small SQLite database, summarize sales dat
 
 ## How to Run
 1. Clone this repository.
-2. Open `task_7_sales_summary.ipynb` in Google Colab.
+2. Open `task_7_sales_summary.py` in Google Colab.
 3. Install dependencies (run the first cell: `pip install pandas matplotlib`).
 4. Run all cells to see tables, chart, and download files.
 5. Check `sales_chart.png` for the visualization.
