@@ -34,7 +34,7 @@ The goal was to use Python to query a small SQLite database, summarize sales dat
 ---
 
 ## Files
-- `task_7_sales_summary.ipynb`: Colab notebook with all code (database, queries, chart).
+- `task_7_sales_summary.py`: Colab notebook with all code (database, queries, chart).
 - `data/sales_data.db`: SQLite database file.
 - `screenshots/sales_chart.png`: Bar chart showing revenue by product.
 - `README.md`: This file.
